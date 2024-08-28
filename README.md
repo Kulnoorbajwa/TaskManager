@@ -1,6 +1,6 @@
-# Taskify SaaS
+# Taskify Manager
 
-Taskify SaaS is the ultimate solution for project management, task management, CRM, and productivity, built on the robust Laravel 10 framework. It offers a comprehensive suite of features designed to streamline project coordination and enhance productivity for businesses of all sizes.
+Taskify Manager is the ultimate solution for project management, task management, CRM, and productivity, built on the robust Laravel 10 framework. It offers a comprehensive suite of features designed to streamline project coordination and enhance productivity for businesses of all sizes.
 
 ## Features
 
@@ -37,11 +37,4 @@ Taskify SaaS is the ultimate solution for project management, task management, C
 - **Billing Management:** Monitor subscription plans, manage invoices and payments, track user activity, and analyze subscription usage.
 - **Security Management:** Configure security settings like two-factor authentication, data encryption, and user session timeout for enhanced platform security.
 - **Audit Logs:** Track user activity logs for increased transparency and accountability.
-
-
-
-
-## Support
-
-For support, please contact info@infinitietech.com.
 
